@@ -1,6 +1,15 @@
 # Kaizen-Vs-self-development
 KAIZEN MYSELF.
 
+
+# 做计划
+
+# 学技能模块
+
+ 1 每日恋爱tips学习
+ 2 life hack 每天生活小技巧学习
+ 3 python 学习 
+ 
 # 晨间习惯
 
 起床的时候，脖子扭一扭，手臂肩膀前后扭动扭动，刷牙之后咬一咬牙齿，对着镜子做一做微笑。
