@@ -21,3 +21,8 @@ How to test ？   think - write - test （Act or somethings）- feedback to reth
 
 
 
+
+ - FeedBack Loop 1 - 1 坐着上网 - 2 收获了什么？ 知识？ 练习到了什么？ 技能？ - 下一次是起来行动做些什么？ 还是坐着？
+ 
+ 
+
