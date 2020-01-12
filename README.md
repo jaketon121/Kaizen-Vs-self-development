@@ -1,6 +1,7 @@
 # Kaizen-Vs-self-development
 KAIZEN MYSELF.
 
+# https://www.codeofliving.com/
 
 # 做计划
  1 计划和 未来的思路和决策反应 一定要整理好， 各类领域套路要整理好，留着以后用。 比如 健身的程序，课程。
