@@ -1,5 +1,6 @@
 # Kaizen-Vs-self-development
 KAIZEN MYSELF.
+# 仅仅只是为了整理 而不是为了好用 只不过顶多算个强迫症
 
 # https://www.codeofliving.com/
 
